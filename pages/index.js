@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I'm a budding web developer, aspring game dev and a neural network enthusiast 👩🏿‍💻</p>
+        <p>A budding web developer, aspring game dev and a neural network enthusiast 👩🏿‍💻</p>
         <p>
           Follow me as I share insights about my learnings 📑
         </p>
